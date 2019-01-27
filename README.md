@@ -55,6 +55,14 @@ Next steps for the Technical Documentation project:  Work on fixing the position
 
 I'm getting frustrated.  I'm basically guessing, doing trial and error to get the positioning of each column working properly and it's basically a mess.  Need to regroup, and take it slowly, step by step.  Do my research to figure it out, before I just slosh around trying stuff.  freeCodeCamp is my reference.  So is w3cschools.org.
 
+Perhaps try a new code pen with two simple columns with 35% and 65% widths.  Simulate my conditions, but make them simpler so all the other code doesn't get in the way.  Boil it down to the barest essentials.  
+
+Reflections on today:
+
+1.  I learned that I need to use Git and Github for version control, so that I don't lose what I've created.
+2.  I've learned how to use Git and Github with Visual Studio Code.  
+
+
 
 
 
