@@ -67,6 +67,9 @@ Reflections on today:
   Can't figure out the CSS for the positioning of the two columns.  Tried Grid layout and I tried Flexbox.  Neither is 
   doing what I would like it to do.  Try looking at my HTML and CSS book by Cengage.
   
+  It's ironic.  Yesterday, I felt like a professional developer with my felt sense of color and form for the web page.  
+  Today, after my design collapsed, I feel like a beginner, wandering in circles...
+  
   
 
 
