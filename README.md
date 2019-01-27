@@ -39,3 +39,9 @@ What is the difference between committing directly to the master branch and crea
 
 @7:41 p.m.:
 I'm going to try creating a new branch for this next commit.  
+
+@7:44 p.m.:
+
+I'm thinking that as far as working with my code from CodePen, everything that I'm committing is stuff I want to keep.  If I screw something up, it would be from working in CodePen, and then I can come back to Github to retrieve the previous version.
+Save files with dates as part of the name. 
+
