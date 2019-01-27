@@ -30,3 +30,9 @@ I just finished:
 5.  Committed the changes to the HTML file and the CSS file and saved the commit
     both to my local file and to Github.
 6.  Using Visual Studio, the process was simple, once I got everything set up.
+
+@7:37 p.m.:
+
+Reflecting upon this process, what I don't understand, is how there are different versions of the same file, 
+and how you can retrieve a previous version.  What happens if I create a new branch for each commit?  
+What is the difference between committing directly to the master branch and creating a new branch for each commit?
