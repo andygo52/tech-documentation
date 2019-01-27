@@ -14,3 +14,7 @@ But most importantly, I want to make things with what I learn, not just learning
 I also want to incorporate my art skills, both conventional and digital, into my digital design and programming work.
 
 @7:09 p.m., Saturday, January 26, 2019.
+
+Next step:  I want to learn how to take my HTML and CSS from my CodePen and in Visual Studio, Commit it to a version so that I can back up my work.  
+
+@7:19 p.m., Saturday, January 26, 2019.
