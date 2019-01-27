@@ -416,5 +416,87 @@ HTML:
   margin-top: -16px;
 }
 
+x---------------------------------------------------->
+## freeCodeCamp.org - Project Testing
 
+
+#Technology Stack
+1. You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
+#Content
+1. I can see a <main> element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
+2. Within the #main-doc ( <main> ) element, I can see several <section> elements, each with a class of "main-section". There should be a minimum of 5.
+3. The first element within each .main-section should be a <header> element which contains text that describes the topic of that section.
+4. Each <section> element with the class of "main-section" should also have an id that corresponds with the text of each <header> contained within it. Any spaces should be replaced with underscores (e.g. The <section> that contains the header "Javascript and Java" should have a corresponding id="Javascript_and_Java").
+5. The .main-section elements should contain at least 10 <p> elements total (not each).
+6. The .main-section elements should contain at least 5 <code> elements total (not each).
+There are not at least 5 <code> elements throughout all of the elements with the class of 'main-section' : expected 0 to be at least 5
+AssertionError: There are not at least 5 <code> elements throughout all of the elements with the class of 'main-section' : expected 0 to be at least 5
+    at s.h (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:262:2072)
+    at s.e.(anonymous function) [as least] (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:325:126)
+    at Function.n.isAtLeast (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:224:844)
+    at r.<anonymous> (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:154:58653)
+    at c (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31608)
+    at o.f.run (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31544)
+    at m.runTest (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37114)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37976
+    at s (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36426)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36495
+7. The .main-section elements should contain at least 5 <li> items total (not each).
+There are not at least 5 <li> elements throughout all of the elements with the class of 'main-section' : expected 0 to be at least 5
+AssertionError: There are not at least 5 <li> elements throughout all of the elements with the class of 'main-section' : expected 0 to be at least 5
+    at s.h (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:262:2072)
+    at s.e.(anonymous function) [as least] (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:325:126)
+    at Function.n.isAtLeast (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:224:844)
+    at r.<anonymous> (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:154:58945)
+    at c (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31608)
+    at o.f.run (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31544)
+    at m.runTest (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37114)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37976
+    at s (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36426)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36495
+8. I can see a <nav> element with a corresponding id="navbar".
+9. The navbar element should contain one <header> element which contains text that describes the topic of the technical documentation.
+10. Additionally, the navbar should contain link (<a>) elements with the class of "nav-link". There should be one for every element with the class "main-section".
+11. The <header> element in the navbar must come before any link (<a>) elements in the navbar.
+12. Each element with the class of "nav-link" should contain text that corresponds to the <header> text within each <section> (e.g. if you have a "Hello world" section/header, your navbar should have an element which contains the text "Hello world").
+Check that these headers have corresponding .nav-link elements and be mindful of case! : HTML, CSS DOCUMENTATION : expected 1 to equal 0
+AssertionError: Check that these headers have corresponding .nav-link elements and be mindful of case! : HTML, CSS DOCUMENTATION : expected 1 to equal 0
+    at s.l (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:262:1134)
+    at s.e.(anonymous function) [as equal] (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:325:126)
+    at Function.n.strictEqual (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:224:568)
+    at r.<anonymous> (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:154:61597)
+    at c (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31608)
+    at o.f.run (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31544)
+    at m.runTest (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37114)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37976
+    at s (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36426)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36495
+13. When I click on a navbar element, the page should navigate to the corresponding section of the "main-doc" element (e.g. If I click on a "nav-link" element that contains the text "Hello world", the page navigates to a <section> element that has that id and contains the corresponding <header>.
+Every .nav-link should have an href value that links it to its corresponding .main-section (e.g. href="#Introduction"). Check that these .main-section ids have corresponding href values : HTML,_CSS_Documentation,About_the_Coder,Code_Editors,The_Tribute_Project : expected 4 to equal 0
+AssertionError: Every .nav-link should have an href value that links it to its corresponding .main-section (e.g. href="#Introduction"). Check that these .main-section ids have corresponding href values : HTML,_CSS_Documentation,About_the_Coder,Code_Editors,The_Tribute_Project : expected 4 to equal 0
+    at s.l (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:262:1134)
+    at s.e.(anonymous function) [as equal] (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:325:126)
+    at Function.n.strictEqual (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:224:568)
+    at r.<anonymous> (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:154:62523)
+    at c (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31608)
+    at o.f.run (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31544)
+    at m.runTest (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37114)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37976
+    at s (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36426)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36495
+#Layout
+1. On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left half of the screen. It should always be visible to the user and should remain stationary. You may need to enlarge the viewport or zoom out to ensure the navbar doesn't scroll with the page content.
+2. My Technical Documentation page should use at least one media query.
+No media queries detected : expected 0 to be above 0
+AssertionError: No media queries detected : expected 0 to be above 0
+    at s.c (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:262:1704)
+    at s.e.(anonymous function) [as above] (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:325:126)
+    at Function.n.isAbove (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:224:789)
+    at r.<anonymous> (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:154:64129)
+    at c (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31608)
+    at o.f.run (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:31544)
+    at m.runTest (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37114)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:37976
+    at s (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36426)
+    at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36495
 
