@@ -13,8 +13,20 @@ But most importantly, I want to make things with what I learn, not just learning
 
 I also want to incorporate my art skills, both conventional and digital, into my digital design and programming work.
 
-@7:09 p.m., Saturday, January 26, 2019.
+--@7:09 p.m., Saturday, January 26, 2019.
 
 Next step:  I want to learn how to take my HTML and CSS from my CodePen and in Visual Studio, Commit it to a version so that I can back up my work.  
 
-@7:19 p.m., Saturday, January 26, 2019.
+--@7:19 p.m., Saturday, January 26, 2019.
+
+
+@7:32 p.m.:
+
+I just finished:  
+1.  Copying my HTML code from my CodePen for the Technical Documentation project.
+2.  Pasted it into Visual Studio, saved it as tech-documentation.html file.
+3.  Copied my CSS code from my CodePen for the Technical Documentation project.
+4.  Pasted it into Visual Studio, saved it as tech-documentation.css file.
+5.  Committed the changes to the HTML file and the CSS file and saved the commit
+    both to my local file and to Github.
+6.  Using Visual Studio, the process was simple, once I got everything set up.
