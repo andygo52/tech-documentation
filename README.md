@@ -70,7 +70,180 @@ Reflections on today:
   It's ironic.  Yesterday, I felt like a professional developer with my felt sense of color and form for the web page.  
   Today, after my design collapsed, I feel like a beginner, wandering in circles...
   
+ ## HTML and CSS for two-column layout with fixed position NavBar in left column.
+ 
+ @12:24 p.m.:
+ 
+ I finally found a video walkthrough on YouTube that worked.  I tried it with simple boxes.
+ 
+ Here's the CSS:
+ 
+ .page {
   
+  display:grid;
+  grid-template-columns: 30vw auto;
+  
+}
+
+.sidebar {
+  position: fixed;
+  width: 30vw;
+  
+}
+
+.main {
+  grid-column-start:2;
+}
+
+.headerMain {
+  height:200px;
+  background-color:MidnightBlue;
+  color:Turquoise;
+  font-size: 50px;
+}
+
+.mainBackground {
+  background-color:AliceBlue;
+  margin-top: -16px;
+}
+
+x--------------------------------------------x
+And here's the HTML:
+
+
+     
+    <div class="sidebar">
+      <p>sidebar</p>
+</div>
+
+      <div class="page">
+        
+        <div class="main">
+          <header class="headerMain">Banner</header>
+          <div class="mainBackground">
+          <p>Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+
+Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+
+Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
+
+Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
+
+Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel </p>
+
+          </div>
 
 
 
