@@ -1,0 +1,161 @@
+* {
+    margin-top:0px;
+    margin-left: 0px;
+  }
+  body {
+    font-family: 'Exo 2', sans-serif;
+  }
+  
+  .TopHeader {
+     
+   
+    
+    background-color: MidnightBlue;
+    color: PaleTurquoise;
+    height: 250px;
+    
+    text-align: center;
+   
+  
+    
+    font-size: 25px;
+    text-align: center;
+    margin-right:0px;
+    
+  }
+  
+  
+  .TopHeader  h2 {
+    
+      color: Teal;
+    }
+  
+  
+  .TopHeader  h3 {
+    
+      color: Thistle;
+    }
+  
+  
+  
+  
+  .credits {
+    background-color: Navy;
+    display:block;
+    
+  
+     
+    
+  }
+  
+  h2, h3 {
+    
+    color: Black;
+     padding-top: 10px;
+    
+    display:block;
+    text-align:center;
+   
+  }
+  
+  h3 {
+    padding-bottom: 20px;
+  }
+  
+  
+  
+  .container {
+    display: grid;
+    grid-template-columns: 35% 65%;
+    
+  }
+  
+  #navbar {
+   
+    background-color: LavenderBlush;
+    font-size: 25px;
+     color:MidnightBlue;
+    padding-left: 7px;
+  
+   /*Working on having the side navigation menu stay in a fixed position @2:19 p.m., Saturday, 1/26/2019*/
+   
+  }
+  
+  
+  
+  
+  
+  .navHeader {
+    font-size: 36px;
+   
+    
+  }
+  
+  #main-doc {
+    background-color:AliceBlue;
+   
+    color:MidnightBlue;
+    
+  
+   
+  }
+   
+    #main-doc header{
+      display:block;
+     
+    }
+   
+   
+  }
+  
+  #main-doc p {
+    font-size: 25px;
+    margin-left:30px;
+  }
+  
+  .mainHeader {
+    font-size: 35px;
+    margin-left: 10px;
+  }
+  
+  a {
+    text-decoration:none;
+    color: DarkSlateBlue;
+    font-size:30px;
+  }
+  a:hover {
+    text-decoration: none;
+    color:MidnightBlue;
+   
+  }
+  
+  .time-date-stamp {
+    font-size: 16px !important;
+    float:right;
+    padding-right: 25px;
+    color: #3a4aa3
+  }
+  
+  h4 {
+    margin-left: 10px;
+  }
+  
+  .mainHeader a {
+    text-decoration:underline !important;
+  }
+  
+  figure {
+       position: relative;
+  }
+  figure img {
+      display: block;
+  }
+  figcaption {
+      background: rgba(0, 0, 0, 0.5);
+      color: #FFF;
+      position: absolute;
+      bottom: 0;
+      margin-left: 30px;
+      right: 10;
+      top: 
+  }
