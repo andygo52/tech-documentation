@@ -36,3 +36,6 @@ I just finished:
 Reflecting upon this process, what I don't understand, is how there are different versions of the same file, 
 and how you can retrieve a previous version.  What happens if I create a new branch for each commit?  
 What is the difference between committing directly to the master branch and creating a new branch for each commit?
+
+@7:41 p.m.:
+I'm going to try creating a new branch for this next commit.  
