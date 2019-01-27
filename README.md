@@ -500,3 +500,44 @@ AssertionError: No media queries detected : expected 0 to be above 0
     at s (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36426)
     at https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js:159:36495
 
+
+## Working to meet Tech specifications;
+
+@2:43 p.m.
+
+Since I lost my design for the Tech Documentation, I’ve been working on getting it back.  I learned how to do Git with Github and Visual Studio Code to do version control.  So I’m doing that now.  That way, if I lose something, I can revert to a previous version.
+
+I’m also using CodePen Pro, which I like a alot.
+
+I’ve been working on testing the project, and so far I’ve passed 11 of 16 tests.  Need to go through my code and double check to make sure I’m doing what it’s looking for. 
+
+I also want to tweak my design.  I need to do margins for the .main section.
+
+I learned how to to code so that I can present html code without the tags affecting the page (using the &lt; and &gt; code to create less than and greater than signs that don’t affect the page.
+
+Next tech specs I need to work on:
+
+4. Each <section> element with the class of "main-section" should also have an id that corresponds with the text of each <header> contained within it. Any spaces should be replaced with underscores (e.g. The <section> that contains the header "Javascript and Java" should have a corresponding id="Javascript_and_Java").
+
+7. The .main-section elements should contain at least 5 <li> items total (not each).  
+
+   [I don’t understand this one, as I have plenty of <li> tags for lists. ]
+
+12. Each element with the class of "nav-link" should contain text that corresponds to the <header> text within each <section> (e.g. if you have a "Hello world" section/header, your navbar should have an element which contains the text "Hello world").
+
+13. When I click on a navbar element, the page should navigate to the corresponding section of the "main-doc" element (e.g. If I click on a "nav-link" element that contains the text "Hello world", the page navigates to a <section> element that has that id and contains the corresponding <header>.
+
+#Layout
+
+2. My Technical Documentation page should use at least one media query.
+
+[I think I can do the media query relatively easy.  Most of the other ones are simply double-checking my code and tweaking it to meet the specifications.  The list one, I don’t know why it’s not reading my <li> tags.
+
+Want to work at meeting the tech specs first, then tweaking my content and layout to get it the way I want it to look, and the content the way I want for this project.   
+
+I think the next time I do one of the projects, I will meet the tech specs first, then style it and develop it the way I want after that, without losing the required specs.  
+
+Next step:
+
+Get the navigation links working again.  
+
