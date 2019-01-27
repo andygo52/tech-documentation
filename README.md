@@ -15,6 +15,7 @@ I also want to incorporate my art skills, both conventional and digital, into my
 
 --@7:09 p.m., Saturday, January 26, 2019.
 
+## Using Github with Git and Visual Studio Code
 Next step:  I want to learn how to take my HTML and CSS from my CodePen and in Visual Studio, Commit it to a version so that I can back up my work.  
 
 --@7:19 p.m., Saturday, January 26, 2019.
@@ -44,11 +45,12 @@ I'm going to try creating a new branch for this next commit.
 
 I'm thinking that as far as working with my code from CodePen, everything that I'm committing is stuff I want to keep.  If I screw something up, it would be from working in CodePen, and then I can come back to Github to retrieve the previous version.
 Save files with dates as part of the name. 
-
+## Next Steps
 @7:46 p.m.:
 I like this place for documenting my work flow.
 Next steps for the Technical Documentation project:  Work on fixing the position of the left column.  Making sure the right column works in its proper space.  Make sure the font-size is comparable to what it was previously, and make sure the design is beautiful as it was previously.  
 
+## Reflection
 @8:04 p.m.:
 
 I'm getting frustrated.  I'm basically guessing, doing trial and error to get the positioning of each column working properly and it's basically a mess.  Need to regroup, and take it slowly, step by step.  Do my research to figure it out, before I just slosh around trying stuff.  freeCodeCamp is my reference.  So is w3cschools.org.
