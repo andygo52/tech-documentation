@@ -249,7 +249,26 @@ Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne 
 x-----------------------------------------x
 Tomorrow, I'll try out the solution with my layout. Then clean it up so it looks beautiful the way it did before.
 
+x-----------------------------------------x
 
+References:
+
+Using Git with Visual Studio Code:
+https://www.youtube.com/watch?v=6ai-CHkQP5g
+
+Fixed Flexible Sidebar with CSS Grid:
+https://www.youtube.com/watch?v=alsxCvrbeko
+
+x------------------------------------------X
+## Starting Version Control 2
+
+Starting Version Control 2.
+
+Goal for next step, which I will save as a version:
+
+1. Get my two-column layout working with the fixed Navigation Bar in the first column.  
+2. Save Code into freeCodeCamp.org template for project.
+3. Save the version on Git.  
 
 
 
