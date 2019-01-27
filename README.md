@@ -134,10 +134,7 @@ Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne 
 Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
 
 Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
+erata accommodare, vel no veri electram. Partem principes argumentum vis eu.
 
 Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
 
@@ -145,103 +142,9 @@ Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas ar
 
 Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
 
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
 
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
+ 
 
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel Lorem ipsum dolor sit amet, malis iracundia ne ius, vel possit verear cu. Ex erat tibique philosophia nec, lorem ullum bonorum ex eos, ius an impetus dolorem imperdiet. Ut nec stet decore oportere. Sea eu ferri vituperata accommodare, vel no veri electram. Partem principes argumentum vis eu.
-
-Cibo aliquando intellegebat ius no, at debitis placerat vim. Rebum electram ut nam, fastidii dignissim ut sed, usu an laudem nostrum. Nostro mandamus vim at, sit appetere reprimique no. Et his dicunt antiopam, sed eu vidit gloriatur, vis ea putant legimus nusquam. Te mel nonumy doming aperiam, tota lorem dolore per id, an ferri harum expetendis mea. Eu sit cibo necessitatibus, inermis delectus no mea, volumus persequeris eloquentiam mea ea. Quaeque iudicabit no vim.
-
-Vel an splendide interesset, ad sea partem timeam principes. Ne has urbanitas argumentum signiferumque, aeterno praesent instructior vim in, duo platonem conceptam deseruisse ne. Mei no meis perfecto reprehendunt, facer facilisi consequuntur mea id. Nam consul consulatu moderatius ad, assum nihil animal nam te. Sit ex dicunt iuvaret intellegam, mutat definitionem at pro. Vix sint simul voluptua eu.
-
-Tation sententiae quo cu, duo ea clita tation, duo malis prompta tibique ea. Cu eam illud oratio iuvaret, zril quaestio ex vim, meliore definiebas intellegebat mea ea. Vis congue munere accommodare no. In singulis deserunt nam, at sea justo corpora signiferumque, quis persius no duo. Vel consequat deterruisset eu, falli fastidii democritum eum cu, dico denique contentiones eos an. Harum causae albucius nec ad, quo et veritus molestiae.
-
-Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne sit. Meis elaboraret pri at, eu iusto vivendum molestiae est. Simul fabulas ne has, mea at case tantas commune, case error duo et. Nec ne eripuit dignissim prodesset, commune splendide te nam, numquam elaboraret cu per. Graeci dignissim ius ea. Ut malis iusto noluisse vel, agam propriae vel </p>
 
           </div>
 
@@ -269,6 +172,249 @@ Goal for next step, which I will save as a version:
 1. Get my two-column layout working with the fixed Navigation Bar in the first column.  
 2. Save Code into freeCodeCamp.org template for project.
 3. Save the version on Git.  
+
+## Changes with sidebar and page code for fixed navbar and scrolling main section
+HTML:
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML, CSS Documentation</title>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="utf-8">
+      <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
+     
+    <div class="sidebar">
+      <p>sidebar</p>
+      
+        <nav id="navbar">
+       
+        <header class="navHeader">HTML, CSS Documentation</header>
+        <br>
+        <hr>
+        <p><a href="#Introduction">Introduction</a></p>
+        
+        <hr>
+        
+         <p><a href="#about">About the Coder</a></p>
+        
+        <hr>
+        
+       <a href="#references">References</a></p> 
+       
+        <hr>
+          <p><a href="#code-editors">Code Editors</a></p>
+        <hr>
+      
+      <p><a href="#tribute">The Tribute Project</a></p>
+        
+        <hr>
+      
+      <p><a href="#HTML">HTML</a></p>
+        <hr>
+      </nav>
+        
+      
+      
+      
+      
+</div>
+  
+  /*End of Sidebar code */
+  
+  /# Begin Page code */
+  
+  
+  
+  
+
+      <div class="page">
+        
+        
+        
+        <div class="main">
+          
+          <header class="headerMain">Banner</header>
+          <div class="mainBackground">
+            
+            /* Inserting code for main section */
+            
+         <main id="main-doc">
+     <header class="mainHeader" id="Introduction">
+       Introduction</header>
+       <br>
+       
+       <p>Having completed the coding exercises for HTML and CSS at freeCodeCamp.org, the purpose of this technical documentation now is to provide a sandbox for creative explorations with the code I have learned so far.  Doing this in the form of a project gives me the chance to revisit the code and discover what proves useful in the shaping of this project.  It's also a chance for me to summarize and reflect my current understanding.</p>
+       <p class="time-date-stamp"><i>time: 11:56 p.m.; date: Wednesday, January 23, 2019; place: Boca Raton, FL.</i></p>
+       <br>
+        <header class="mainHeader" id="about">
+       About the Coder</header>
+       <p>My name is Andy Goldstein.  Long, long ago, in a galaxy far, far away, I studied journalism at Northwestern University.  During an internship at the Louisville Times, I became friends with Mike Covington, an artist who created illustrations for the Louisville Times, and that was the start of my lifelong love of art.  I studied art at Northwestern University under Ed Paschke, one of the leaders of the the Chicago Imagist movement.  I also studied at the University of Louisville, the New York Academy of Art and earned a Master of Fine Arts Degree from the Graduate School of Figurative Art of the New York Academy of Art.  After art school I painted at the Artist's Co-op in Delray, FL and exhibited at the Art of Africa in Delray, FL. </p>
+       
+ <p>Eventually, I became interested in teaching and earned my teaching degree from Florida Atlantic University.  I've been teaching ever since.  I currently teach a course in <i>Fundamentals of Web and Software Development</i> and <i>ICT Essentials.</i> You can view our class blog, which showcases my students' creative work at 
+<a href="http://weblogs.pbspaces.com/mrgoldstein/" target="_blank" style="text-decoration:underline"><i>Imagine</i></a>, and our class website, 
+<a href="http://schools.firn.edu/websites/palm_beach/omni_middle_school/classrooms/andrew_goldstein/" target="_blank" style="text-decoration:underline"><i>OmniVision</i></a>.  I've also taught Yearbook, having earned the Walsworth publisher's award (awarded to its top 5 percent of yearbooks in the country) three years in a row.  You can view our <a href="http://weblogs.pbspaces.com/mrgoldstein/yearbook/" target="_blank" style="text-decoration:underline">yearbook covers</a>, designed by students, handrawn, or designed in Flash or Photoshop.  We used Adobe InDesign to layout the pages of the yearbook.  I've also taught robotics, structures, PowerPoint, animation with Flash, stop-motion animation on iMac computers, creating ClayMation. I've taught game programming in Scratch and in Flash, and video production using iMovie and GarageBand on iMac computers. I teach web development using <i>Khan Academy</i>, <i>Code.org</i>, <i>Notepad++</i> and working with Dreamweaver to post our students' web pages to our class website.  In 2012, I was named one of four "Innovator Educators of the Year" in a county-wide competition sponsored by the School District of Palm Beach County and Microsoft.  I earned a trip to Microsoft's headquarters in Redmond, Washington and showcased our students' work for our project, <i>Invent</i>.  I was one of 72 Regional winners that year for <a href="http://weblogs.pbspaces.com/mrgoldstein/2012/08/07/microsoft-partners-in-learning-u-s-forum-2012/" target="_blank" style="text-decoration:underline;"><i>Microsoft Partners in Learning U.S. Forum 2012</i></a> (Scroll down to Andy Goldstein in Florida). </p>
+       <p>A brief selection of my work (I will compile a comprehensive selection in the freeCodecamp.org portfolio project):</p>
+       <figure>
+         <iframe title="Vodcast Player" width="480" height="270" src="https://vodcast.palmbeachschools.org/embed/ED7YR" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowfullscreen="true" style="margin-left:30px; margin-top: 60px;"></iframe><figcaption><i>Gobble Gobble</i> by Andy Goldstein
+       </figure>
+       <br>
+       <figure>
+       <img src="http://weblogs.pbspaces.com/mrgoldstein/files/2009/12/Souls-on-Fire.png" alt="Souls on Fire, a painting by Andy Goldstein" style="margin:30px;"><figcaption ><i>Souls on Fire</i> by Andy Goldstein</figcaption>
+         </figure>
+                 
+       <br>
+  <figure>
+       <img src="http://weblogs.pbspaces.com/mrgoldstein/files/2009/12/Sketch1.png" alt="Gemini Thinking, a drawing by Andy Goldstein" width="400" style="margin:30px;"><figcaption><i>Gemini Thinking </i>by Andy Goldstein</figcaption>
+         </figure>     
+       
+       
+       
+        <header class="mainHeader" id="references">
+       References</header>
+       <br>
+       <p>For reference, for learning, I am using freeCodeCamp.org's section on Responsive Web Design Certification, which includes the following sections:</p>
+         <ul>
+           <li>Introduction to Basic HTML and HTML 5</li>
+            <li>Basic CSS</li>
+            <li>Applied Visual Design</li>
+            <li>Applied Accessibility</li>
+            <li>Responsive Web Design Principles</li>
+            <li>CSS Flexbox</li>
+            <li>CSS Grid</li>
+            <li>Responsive Web Design Projects</li>
+       </ul>
+       <p>I have completed all the exercises in the above sections, other than "Responsive Web Design Projects," which I am working on creating now.</p>
+       <p>I have also studied Khan Academy's <i>Intro to HTML/CSS: Making Web Pages</i> course, completing all the exercises.  These are:</p>
+        <ul>
+           <li>Intro to HTML</li>
+            <li>Intro to CSS</li>
+            <li>More HTML tags</li>
+            <li>CSS text properties</li>
+            <li>Web development tools</li>
+            <li>CSS layout</li>
+            <li>More CSS selectors</li>
+            <li>Other ways to embed CSS</li>
+           <li>Further Learning</li>
+           
+       </ul>
+       <p> I have also worked with Code.org's <i>Web Development Unit:</i></p>
+       <h4>Web Content  and HTML</h4>
+          <ul>
+          
+           <li>Exploring Websites</li>
+            <li>Websites for Expression</li>
+            <li>Intro to HTML</li>
+            <li>Headings</li>
+            <li>Digital Footprint</li>
+            <li>Lists</li>
+            <li>Intellectual Property and Images</li>
+            <li>Clean code and debugging</li>
+           <li>Project - Multi-Page Websites</li>
+            
+           
+       </ul>
+       <h4>Styling and CSS</h4>
+        <ul>
+          
+           <li>Styling Text with CSS</li>
+            <li>Styling Elements with CSS</li>
+            <li>Sources and Search Engines</li>
+            <li>RGB Colors and Classes</li>
+            <li>Project - Personal Portfolio Website</li>
+                    
+           
+       </ul>
+       
+       
+       
+       <p> In addition, I am using a book for reference, <i>New Perspectives on HTML 5 and CSS3, 7th Edition Comprehensive</i> by Patrick Carey, published by Cengage Learning.  There's a lot of information packed into this book, and I think going through the exercises on freeCodeCamp.org has helped me understand the book better.</p>
+         
+       <header class="mainHeader" id="code-editors">
+       Code Editors</header>
+       <br>
+         <p>I'm working on this project using <a href="https://codepen.io/" target="_blank" style="text-decoration:underline"><i>CodePen</i></a>.  I started this project with the free version of <i>CodePen</i>, then switched to <i>CodePen Pro</i> because I wanted to embed editable pens.  I  like the ability to style the embedded pen, rather than always having the same colors (black, white and gray).  I love the ability to work simultaneously in four windows at once (HTML, CSS, JS ((which I haven't yet started in freeCodeCamp) and the resulting web page that updates instantly as you code.  Very nice!  I also use Visual Studio Code, and in my classes, we use <i>Notepad++</i> and I use <i>Dreamweaver</i> to post student work and update links as the site gets worked and re-worked. We also use online coding platforms on <i>Khan Academy</i> and <i>Code.org</i>    </p>
+       <p>
+         [It's 12:17 a.m., Eastern Standard Time, and while I would like to continue, I need to get some sleep so I can go to work tomorrow. Love how this is shaping up....]
+         
+       <p><i>Here's my code so far:</i></p>
+       
+       <p class="codepen" data-height="337" data-theme-id="35922" data-default-tab="html,result" data-user="andygo52" data-slug-hash="zeGpzR" style="height: 337px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Technical Documentation">
+  <span>See the Pen <a href="https://codepen.io/andygo52/pen/zeGpzR/">
+  Technical Documentation</a> by Andy Goldstein (<a href="https://codepen.io/andygo52">@andygo52</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+       
+    <p>   [I'm creating this in CodePen and I am working on figuring out how to insert images.  I tried uploading a screenshot of my code to my Google Drive, but I was out of storage, so I upgraded the plan from 15 GB to 100 GB.  But it takes up to 24 hours to take effect.  Plus, I'm not yet 100 percent sure that that will even work.  We'll find out tomorrow.  Anyway, I need to get some sleep.]</p>
+       
+       <p class="time-date-stamp"><i>time: 12:53 a.m.; date: Thursday, January 24, 2019; place: Boca Raton, FL.</i></p>
+       
+       
+         
+       </p>
+       
+        <header class="mainHeader" id="tribute">
+       The Tribute Project</header>
+       <br>
+  
+  <header class="mainHeader" id="HTML">
+       HTML</header>
+       <br>
+  
+  <p>To code HTML, start with the basic tags, the "skeleton of a web page."
+    
+ <p class="codepen" data-height="350" data-theme-id="35922" data-default-tab="html" data-user="andygo52" data-slug-hash="aXdRKP" data-editable="true" style="height: 350px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Basic Tags - Skeleton of a Web Page">
+  <span>See the Pen <a href="https://codepen.io/andygo52/pen/aXdRKP/">
+  Basic Tags - Skeleton of a Web Page</a> by Andy Goldstein (<a href="https://codepen.io/andygo52">@andygo52</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+  
+    <p class="time-date-stamp"><i>time: 12:20 a.m.; date: Saturday, January 26, 2019; place: Boca Raton, FL.</i></p>
+       
+  </main>   
+            
+            
+            
+            
+            
+ 
+
+          </div>
+          
+    x------------------------------------x
+    
+    CSS (needs to be reworked)
+    
+    .page {
+  
+  display:grid;
+  grid-template-columns: 30vw auto;
+  
+}
+
+.sidebar {
+  position: fixed;
+  width: 30vw;
+  
+}
+
+.main {
+  grid-column-start:2;
+}
+
+.headerMain {
+  height:200px;
+  background-color:MidnightBlue;
+  color:Turquoise;
+  font-size: 50px;
+}
+
+.mainBackground {
+  background-color:AliceBlue;
+  margin-top: -16px;
+}
 
 
 
