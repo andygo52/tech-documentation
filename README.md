@@ -246,6 +246,9 @@ Justo feugait ad vix. Vis ne sapientem dissentiunt, soleat commune convenire ne 
           </div>
 
 
+x-----------------------------------------x
+Tomorrow, I'll try out the solution with my layout. Then clean it up so it looks beautiful the way it did before.
+
 
 
 
