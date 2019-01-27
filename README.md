@@ -63,7 +63,11 @@ Reflections on today:
 2.  I've learned how to use Git and Github with Visual Studio Code.  
 
 
-
+@11:24 p.m.:
+  Can't figure out the CSS for the positioning of the two columns.  Tried Grid layout and I tried Flexbox.  Neither is 
+  doing what I would like it to do.  Try looking at my HTML and CSS book by Cengage.
+  
+  
 
 
 
